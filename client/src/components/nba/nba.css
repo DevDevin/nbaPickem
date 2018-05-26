@@ -1,0 +1,25 @@
+.ballButton {
+    float: left;
+    height: 120px;
+    width: 120px;
+}
+
+
+.pickerDiv {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    background:orange;
+}
+
+#test {
+			height: 50%;
+			top: 25%;
+			position: relative;
+      left: 15%;
+}
+
+.score {
+  color: black;
+}
